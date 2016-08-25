@@ -1,0 +1,3 @@
+{
+	"description": "Receive Cloudwatch Log event streams and forward them to SumoLogic"
+}
